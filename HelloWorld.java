@@ -1,6 +1,7 @@
 public class AverageCalculator {
     public static void main(String[] args) {
 <<<<<<< HEAD
+<<<<<<< HEAD
         // Create an array of numbers
         double[] numbers = { 5.0, 7.0, 3.0, 2.0, 8.0 };
 
@@ -17,10 +18,15 @@ public class AverageCalculator {
         System.out.println("Average: " + average);
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> main
         system.out.println("This is another string")
 =======
         system.out.println("Welcome")
 >>>>>>> new_greeting
+<<<<<<< HEAD
+>>>>>>> main
+=======
 >>>>>>> main
     }
     
